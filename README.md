@@ -1,4 +1,4 @@
-# Project 3 - Web APIs & Classification
+# NLP Subreddit Classification
 
 ### Problem Statement 
 
